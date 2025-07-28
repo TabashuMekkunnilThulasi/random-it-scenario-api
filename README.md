@@ -38,10 +38,13 @@ This is a simple Spring Boot application developed as part of the Junior Develop
 **How to Run Locally**
 
 git clone https://github.com/TabashuMekkunnilThulasi/random-it-scenario-api.git
+
 cd random-it-scenario-api
+
 mvn spring-boot:run
 
 Once started, the app will be accessible at:
+
 http://localhost:8080
 
 **Testing the Endpoint**
@@ -64,6 +67,7 @@ Body (raw JSON):
 }
 
 About This Project
+
 This assignment was designed to showcase:
 
 My approach to clean, maintainable Java code
@@ -76,7 +80,6 @@ A simple yet functional implementation within a 4-hour time cap
 
 **Author**
 Tabashu Mekkunnil Thulasi
-🔗 GitHub Profile
 
 This project was submitted as part of the Junior Developer recruitment process at NHSBSA.
 
