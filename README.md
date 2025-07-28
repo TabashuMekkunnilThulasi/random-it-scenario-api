@@ -23,6 +23,7 @@ This is a simple Spring Boot application developed as part of the Junior Develop
   "role": "System Administrator",
   "environment": "Enterprise Network"
 }
+
 **Response (JSON):**
 
 {
